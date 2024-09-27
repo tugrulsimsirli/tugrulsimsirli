@@ -59,7 +59,7 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 
 ### 📈 GitHub Stats:
 
-![Tugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugrulsimsirli&show_icons=true&theme=radical)
+<!-- ![Tugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugrulsimsirli&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugrulsimsirli&layout=compact)](https://github.com/tugrulsimsirli)
 
