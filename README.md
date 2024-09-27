@@ -1,8 +1,12 @@
-<h1 align="center">Hey, I'm Tugrul! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvNjJqNmQ2MWxlcDRyaWpmcGd6dzk3amV2YTVuN3Q0bHN5bjRiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="30px"></h1>
+<h1 align="left">Hey, I'm Tugrul! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvNjJqNmQ2MWxlcDRyaWpmcGd6dzk3amV2YTVuN3Q0bHN5bjRiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height="30px"></h1>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tugrul-simsirli)
+[![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/MrSimsirli)
 
 I am a Software Engineer with a deep-rooted passion for crafting scalable and efficient backend systems. My experience revolves around architecting reliable, high-performance solutions for diverse applications. I enjoy diving into challenging projects that push my skills in system design and implementation. I love exploring new technologies and sharing my knowledge through my work.
 
-- 💼 Currently working at ![Kompanion](https://www.linkedin.com/company/thekompanion)
+
+- 💼 Currently working at  [Kompanion](https://kompanionapp.com/en/) <img src="https://kompanionapp.com/favicon.ico" height="15px">
 - 🌱 Learning and exploring: Kubernetes, AI/ML, and System Design
 - ⚡ Fun fact: My Git commits are powered by caffeine.
 
@@ -43,14 +47,6 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 
 ---
 
-### 📈 GitHub Stats:
-
-![Tugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugrulsimsirli&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugrulsimsirli&layout=compact)](https://github.com/tugrulsimsirli)
-
----
-
 ### 🔧 My Projects:
 
 <!-- - 📝 [Service Provider Ratings and Notifications]() - Service provider Ratings and Notifications services with EDD -->
@@ -58,17 +54,15 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 - 🐇 [RabbitMQ Service](https://github.com/tugrulsimsirli/rabbitmq) - Modular RabbitMQ publish/consume architecture
 - 🛡️ [Personal VPN](https://github.com/tugrulsimsirli/wireguard-personalVPN) - Personal VPN withuse Wireguard on cloud.
 
----
-
-### 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-
-
-Feel free to reach out to me if you're interested in collaborating or discussing ideas!
 
 ---
+
+### 📈 GitHub Stats:
+
+![Tugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugrulsimsirli&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugrulsimsirli&layout=compact)](https://github.com/tugrulsimsirli)
+
 
 <!-- ## 📊 GitHub Stats
 <p align="center">
