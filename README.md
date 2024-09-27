@@ -47,7 +47,7 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 
 ---
 
-### 🔧 My Projects:
+### 📌 Featured Projects:
 
 <!-- - 📝 [Service Provider Ratings and Notifications]() - Service provider Ratings and Notifications services with EDD -->
 - 📝 [Pastebin Clone](https://github.com/tugrulsimsirli/pastebin-clone) - A simple backend to share snippets
@@ -55,13 +55,6 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 - 🛡️ [Personal VPN](https://github.com/tugrulsimsirli/wireguard-personalVPN) - Personal VPN withuse Wireguard on cloud.
 
 
----
-
-### 📈 GitHub Stats:
-
-<!-- ![Tugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugrulsimsirli&show_icons=true&theme=radical) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugrulsimsirli&layout=compact)](https://github.com/tugrulsimsirli)
 
 
 <!-- ## 📊 GitHub Stats
