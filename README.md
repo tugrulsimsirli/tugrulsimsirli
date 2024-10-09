@@ -49,7 +49,7 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 
 ### 📌 Featured Projects:
 
-<!-- - 📝 [Service Provider Ratings and Notifications]() - Service provider Ratings and Notifications services with EDD -->
+- 📝 [Service Provider Ratings and Notifications](https://github.com/tugrulsimsirli/rating_notification_services) - Service provider Ratings and Notifications services with Event Driven Architecture
 - 📝 [Pastebin Clone](https://github.com/tugrulsimsirli/pastebin-clone) - A simple backend to share snippets
 - 🐇 [RabbitMQ Service](https://github.com/tugrulsimsirli/rabbitmq) - Modular RabbitMQ publish/consume architecture
 - 🛡️ [Personal VPN](https://github.com/tugrulsimsirli/wireguard-personalVPN) - Personal VPN withuse Wireguard on cloud.
