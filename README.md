@@ -48,8 +48,8 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 ---
 
 ### 📌 Featured Projects:
-
-- 📝 [Service Provider Ratings and Notifications](https://github.com/tugrulsimsirli/rating_notification_services) - Ratings and Notifications services with Event Driven Architecture
+- 🏨 [Hotel Reservation Service](https://github.com/tugrulsimsirli/hotel_reservation) - Hotel reservation backend service built with FastAPI, following a modular architecture.
+- 🔔 [Service Provider Ratings and Notifications](https://github.com/tugrulsimsirli/rating_notification_services) - Ratings and Notifications services with Event Driven Architecture
 - 📝 [Pastebin Clone](https://github.com/tugrulsimsirli/pastebin-clone) - A simple backend to share snippets
 - 🐇 [RabbitMQ Service](https://github.com/tugrulsimsirli/rabbitmq) - Modular RabbitMQ publish/consume architecture
 - 🛡️ [Personal VPN](https://github.com/tugrulsimsirli/wireguard-personalVPN) - Personal VPN withuse Wireguard on cloud.
