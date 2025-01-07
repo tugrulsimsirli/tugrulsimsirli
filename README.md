@@ -13,13 +13,14 @@ I am a Software Engineer with a deep-rooted passion for crafting scalable and ef
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** 
-  ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+- **Languages:**
   ![Dotnet](https://img.shields.io/badge/-Dotnet-512BD4?logo=dotnet&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   
 - **Message Queues & Streams:** 
+  ![Kafka](https://img.shields.io/badge/-Kafka-CC2100?logo=kafka&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
   ![SQS](https://img.shields.io/badge/-SQS-FF4F8B?logo=amazon-aws&logoColor=white)
   ![Kinesis](https://img.shields.io/badge/-Kinesis-FF9900?logo=amazon-aws&logoColor=white)
