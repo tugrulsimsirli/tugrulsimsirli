@@ -6,7 +6,7 @@
 I am a Software Engineer with a deep-rooted passion for crafting scalable and efficient backend systems. My experience revolves around architecting reliable, high-performance solutions for diverse applications. I enjoy diving into challenging projects that push my skills in system design and implementation. I love exploring new technologies and sharing my knowledge through my work.
 
 
-- 💼 Currently working at  [Kompanion](https://kompanionapp.com/en/) <img src="https://kompanionapp.com/favicon.ico" height="15px">
+- 💼 Currently working at  <a href="https://p.tech"><img src="https://p.tech/images/ptech-logo.svg" height="15px"></a>
 - 🌱 Learning and exploring: Kubernetes, AI/ML, and System Design
 - ⚡ Fun fact: My Git commits are powered by caffeine.
 
